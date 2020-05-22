@@ -1,3 +1,4 @@
+package ch03;
 import java.util.Scanner;
 public class Risfiresponsic {
     public static void main(String[] args) {

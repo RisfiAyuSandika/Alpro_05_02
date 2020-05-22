@@ -1,3 +1,4 @@
+package ch02;
 public class ObjectMahasiswa {
 public static void main(String[] args) { 
 	Mahasiswa mhs = new Mahasiswa(); 

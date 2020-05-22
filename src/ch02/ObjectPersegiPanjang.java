@@ -1,3 +1,4 @@
+package ch02;
 public class ObjectPersegiPanjang {
 public static void main(String[] args) { 
 	PersegiPanjang y = new PersegiPanjang(); 

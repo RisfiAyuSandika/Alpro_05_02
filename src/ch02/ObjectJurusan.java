@@ -1,3 +1,4 @@
+package ch02;
 public class ObjectJurusan {
 public static void main(String[] args) { 
 	Jurusan j1 = new Jurusan();

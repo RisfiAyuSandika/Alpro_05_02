@@ -1,3 +1,4 @@
+package ch02;
 public class ObjectPegawai {
 public static void main(String[] args) { 
 	Pegawai pgw1 = new Pegawai(); 

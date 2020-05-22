@@ -1,3 +1,4 @@
+package ch08;
 public class Longestcommonsubstringproblem {
     static String r, s;
     static int risfi(int h, int i, int ayam) {

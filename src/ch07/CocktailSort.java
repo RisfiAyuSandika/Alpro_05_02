@@ -1,3 +1,4 @@
+package ch07;
 import java.util.Arrays;
 public class CocktailSort {
     void CocktailSort(int[] risfi){

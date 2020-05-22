@@ -1,3 +1,4 @@
+package ch07;
 public class Blocksort {
         private Blocksort(int[] risfi) {
         int r = risfi.length;

@@ -1,3 +1,4 @@
+package ch09;
 public class Aksprimalitytest {
     private static final long [] r = new long[64];
     public static void main(String[] args) {

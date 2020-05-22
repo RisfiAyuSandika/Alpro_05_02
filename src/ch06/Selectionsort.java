@@ -1,3 +1,4 @@
+package ch06;
 public class Selectionsort {
      private final int[] risfi;
 	public Selectionsort(int r) {

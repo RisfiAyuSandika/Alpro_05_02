@@ -1,3 +1,4 @@
+package ch06;
 public class Bubblesort {
     static void Bubblesort(int[] risfi) {
         for (int r = 0; r < risfi.length; r++) {

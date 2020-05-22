@@ -1,3 +1,4 @@
+package ch06;
 public class Insertionsort {
     private final int[] risfi;
 	public Insertionsort(int r) {

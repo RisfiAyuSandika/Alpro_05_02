@@ -1,3 +1,4 @@
+package ch02;
 public class ObjectTrapesium {
 public static void main(String[] args) { 
 	Trapesium trapesium = new Trapesium(); 

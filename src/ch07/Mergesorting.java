@@ -1,3 +1,4 @@
+package ch07;
 public class Mergesorting {
     public static void main(String risfi[]){
      int [] angka = {82,12,41,38,19,26,9,48,20,55,8,32,3};

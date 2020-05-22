@@ -1,3 +1,4 @@
+package ch02;
 import java.util.Date; 
 public class Obat {
 	String barcode; 

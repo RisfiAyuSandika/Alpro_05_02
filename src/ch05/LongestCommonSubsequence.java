@@ -1,3 +1,4 @@
+package ch05;
 public class LongestCommonSubsequence {
     int lcs( char[] r, char[] a, int s, int y ){
         if (s == 0 || y == 0)

@@ -1,3 +1,4 @@
+package ch05;
 public class LongestIncreasingSubsequence {
     static int risfi;
     static int r(int [] k, int s){

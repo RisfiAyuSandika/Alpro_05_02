@@ -1,3 +1,4 @@
+package ch05;
 import java.util.Scanner;
 public class Kadane {
     public int risfi(int[] r) {        

@@ -1,3 +1,4 @@
+package ch02;
 public class Jurusan { 
 	String nama;
 	int jumlahMahasiswa; 

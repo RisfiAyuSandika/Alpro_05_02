@@ -1,3 +1,4 @@
+package ch02;
 public class Pegawai { 
 	String nik; 
 	String nama; 

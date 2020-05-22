@@ -1,3 +1,4 @@
+package ch04;
 import java.util.Scanner;
 public class RisfiB {
         public static void main(String[] args) {
